@@ -1,0 +1,3 @@
+include ':skinlib'
+include ':app'
+rootProject.name = "skinSample"
